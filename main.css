@@ -1,0 +1,32 @@
+h1{
+    font-size:30px;
+    color: orange;
+    text-align: center;
+}
+.edin{
+    color:red;
+    text-align: center;
+
+}
+ul {
+    color: blueviolet;
+    font-size: 20px;
+    text-align: left;
+}
+ol {
+    color: blueviolet;
+    font-size: 20px;
+    text-align: right;
+    list-style: none;
+}
+ul .chetr {
+    color: brown;
+ 
+}
+
+
+
+
+
+
+
